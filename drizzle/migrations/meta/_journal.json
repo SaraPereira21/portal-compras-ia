@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788792151900,
+      "tag": "0000_add_valor_item_solicitacoes",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788864719282,
+      "tag": "0001_create_sap_carga",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789301190217,
+      "tag": "0002_create_materiais_sem_giro",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789644669550,
+      "tag": "0003_add_tratativa_claim",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789666662858,
+      "tag": "0004_aprovadores_pcm_manage",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1789818033170,
+      "tag": "0005_add_status_cancelada",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790078713970,
+      "tag": "0006_create_saidas_sem_giro",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1790616664500,
+      "tag": "0007_aprovadores_read_managers",
+      "breakpoints": true
+    }
+  ]
+}
